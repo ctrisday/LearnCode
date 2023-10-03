@@ -1,7 +1,7 @@
 1. Để đặt tên file thì ta đặt theo quy chuẩn lạc đà
 
-2. Để đặt tên hàm thì ta đặt theo quy chuẩn như sau: Tên mong muốn theo quy chuẩn lạc đà + "_ln" + Địa chỉ dòng
-    VD: tinhToan_ln12 //Có nghĩa là hàm tinhToan nằm tại dòng thứ 12
+2. Để đặt tên hàm thì ta đặt theo quy chuẩn như sau: Tên mong muốn theo quy chuẩn lạc đà
+    VD: tinhToan
 
 3. Để đặt tên biến thì ta đặt theo quy chuẩn như sau: Tên hàm chứa biến + "_" + Tên biến theo quy chuẩn lạc đà
-    VD: tinhToan_ln12_soNguyen //Có nghĩa là biến soNguyen nằm trong hàm tinhToan_ln12
+    VD: tinhToan_soNguyen //Có nghĩa là biến soNguyen nằm trong hàm tinhToan
